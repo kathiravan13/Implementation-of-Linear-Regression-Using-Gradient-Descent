@@ -9,9 +9,12 @@ To write a program to predict the profit of a city using the linear regression m
 
 ## Algorithm
 1.Import the required library and read the dataframe.
+
 2.Write a function computeCost to generate the cost function.
+
 3.Perform iterations og gradient steps with learning rate.
-4.Plot the Cost function using Gradient Descent and generate the required graph. 
+
+4.Plot the Cost function using Gradient Descent and generate the required graph.
  
 
 ## Program:
@@ -88,31 +91,31 @@ print("For Population = 70000, we predict a profit of $"+str(round(predict2,0)))
 
 ```
 ## Output:
-##PROFIT PREDICTION:
+PROFIT PREDICTION:
 ![download](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/72c751de-9d20-419c-908d-f9d68e91d28e)
 
 
-##FUNCTION OUTPUT:
+FUNCTION OUTPUT:
 ![function](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/5440dbe0-743e-4f21-9b15-c6750af2f4e1)
 
 
-##GRADIENT DESCENT:
+GRADIENT DESCENT:
 ![gradient ](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/aef30837-1496-469f-97f8-2a7a64ca63b7)
 
 
-##COST FUNCTION USING GRADIENT DESCENT:
+COST FUNCTION USING GRADIENT DESCENT:
 ![download](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/17ee5b6b-631f-475a-9c3f-4e0a5e3a7b2e)
 
 
-##LINEAR REGRESSION USING PROFIT PREDICTION:
+LINEAR REGRESSION USING PROFIT PREDICTION:
 ![download](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/59d451d6-9bc7-4a74-aca4-e5c6e1790efb)
 
 
-##PROFIT PREDICTION FOR A POPULATION OF 35000:
+PROFIT PREDICTION FOR A POPULATION OF 35000:
 ![267988692-43f982a1-bbcc-4910-9ef0-794ff2421d33](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/024ca885-488e-400f-a698-300882d60a1a)
 
 
-##PROFIT PREDICTION FOR A POPULATION OF 70000:
+PROFIT PREDICTION FOR A POPULATION OF 70000:
 
 ![267988729-f1cf50b4-0a6e-4d34-bb8f-683c9b6923ab](https://github.com/charumathiramesh/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120204455/b1150597-9c47-4e21-874e-7714e24aad18)
 
